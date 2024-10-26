@@ -13,7 +13,7 @@ export default function Navbar() {
           <div className="hidden md:flex items-center space-x-8">
             <a href="#features" className="text-gray-600 hover:text-sky-600 transition-colors">Features</a>
             <a href="#testimonials" className="text-gray-600 hover:text-sky-600 transition-colors">Testimonials</a>
-            <a href="#pricing" className="text-gray-600 hover:text-sky-600 transition-colors">Pricing</a>
+    
             <button className="bg-sky-600 text-white px-4 py-2 rounded-lg hover:bg-sky-700 transition-colors">
               Get Started
             </button>
