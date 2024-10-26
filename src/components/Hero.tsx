@@ -9,17 +9,17 @@ export default function Hero() {
         <div className="text-center space-y-8">
           <h1 className="text-5xl font-bold text-gray-900 leading-tight">
             Build Your Professional Network
-            <span className="text-sky-600"> With Purpose</span>
+            <span className="text-sky-600"> With AI</span>
           </h1>
           <p className="max-w-2xl mx-auto text-xl text-gray-600">
-            Connect with like-minded entrepreneurs and industry leaders who can help take your business to the next level.
+          EntreLink leverages AI to bring professionals together, offering intelligent recommendations, personalized digital business cards, and optimized networking experiences.
           </p>
           <div className="flex justify-center">
             <Link 
               to="/signup"
               className="group bg-sky-600 text-white px-6 py-3 rounded-lg hover:bg-sky-700 transition-colors flex items-center space-x-2"
             >
-              <span>Start Networking</span>
+              <span>Join waitinglist</span>
               <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
             </Link>
           </div>
